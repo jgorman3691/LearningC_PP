@@ -1,6 +1,10 @@
+# 1 "C:\\Users\\jedgo\\Projects\\Learning C++\\.vscode\\tasks.json"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "C:\\Users\\jedgo\\Projects\\Learning C++\\.vscode\\tasks.json"
 {
-   // See https://go.microsoft.com/fwlink/?LinkId=733558
-   // for the documentation about the tasks.json format
+
+
    "version": "2.0.0",
    "tasks": [
       {
@@ -9,7 +13,8 @@
          "command": "cpp",
          "args" : [
             "-o",
-            "${file}",
+            "${file}.cpp",
+            "${file}"
          ],
          "group" : {
             "kind" : "build",

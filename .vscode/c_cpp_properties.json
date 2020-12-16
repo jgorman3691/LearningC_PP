@@ -10,11 +10,17 @@
                 "UNICODE",
                 "_UNICODE"
             ],
+            "browse" : {
+                "path" : [
+                    "${workspaceRoot}",
+                    "C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++"
+                ]
+            },
             "windowsSdkVersion": "10.0.19041.0",
-            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe",
-            "intelliSenseMode": "msvc-x64",
-            "cStandard": "c18",
-            "cppStandard": "c++20"
+            "compilerPath": "C:/MinGW/bin/g++",
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "gnu17",
+            "cppStandard": "c++17"
         }
     ],
     "version": 4

@@ -1,3 +1,11 @@
 {
-  "workbench.colorTheme": "Black"
+  "workbench.colorTheme": "Black",
+  "editor.tabSize": 3,
+  "editor.linkedEditing": true,
+  "editor.mouseWheelScrollSensitivity": 2,
+  "editor.renderWhitespace": "all",
+  "editor.tabCompletion": "on",
+  "editor.wordWrapColumn": 120,
+  "bracketPairColorizer.forceUniqueOpeningColor": true,
+  "C_Cpp.errorSquiggles": "Disabled"
 }

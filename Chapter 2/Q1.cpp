@@ -10,7 +10,9 @@ int main()
 
   area = {pi * radius * radius};
 
-  std::cout << "The area of the circle is: " << area << "units.\n" <<std::endl;
+  std::cout << "The area of the circle is: " << std::endl;
+  std::cout << (float) area << std::endl;
+  std::cout << R"(units.)" << std::endl;
 
   return 0;
 }
